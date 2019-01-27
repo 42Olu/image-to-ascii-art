@@ -5,7 +5,7 @@ Short script which converts an image file into ascii-art. The convert scripts st
 ------
 ### Usage:
 
-Linux:
+##### Linux:
 ```
 $ python3 converter.py image.file resolution_percentage
 ```
@@ -14,7 +14,7 @@ or
 $ ./convert.sh image.file resolution_percentage
 ```
 
-Windows in cmd:
+##### Windows in cmd:
 ```
 python converter.py image.file resolution_percentage
 ```
