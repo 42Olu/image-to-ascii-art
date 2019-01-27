@@ -1,6 +1,6 @@
 # image-to-ascii-art
 
-Short script which converts an image file into ascii-art. The convert scripts start the python script and also paste the result into the terminal.
+Short python script to convert images into ascii-art. The convert scripts start the python script and also paste the result into the terminal.
 
 ------
 ### Usage:
