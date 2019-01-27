@@ -28,6 +28,12 @@ convert image.file resolution_percentage
 
 You need to have numpy installed.
 
+### Problems
+
+It doesn't work good with dark images because it needs more sensitive intervals:
+##### possible Solutions:
+* lighten up the image
+* add more symbols 
 
 ### Examples
 ```
