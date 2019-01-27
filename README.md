@@ -30,7 +30,7 @@ You need to have numpy installed.
 
 ### Problems
 
-It doesn't work good with dark images because it needs more sensitive intervals:
+It doesn't work as good with dark images as with light ones, because it needs more sensitive intervals.
 ##### possible Solutions:
 * lighten up the image
 * add more symbols 
